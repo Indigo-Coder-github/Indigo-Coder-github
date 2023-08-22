@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=330099&height=200&text=Indigo_Coder&fontColor=FFFFFF&fontAlign=70&rotate=13&fontAlignY=25)
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indigo-Coder-github)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs4011)](https://solved.ac/hjs4011)
