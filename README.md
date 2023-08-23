@@ -16,8 +16,6 @@
 <a href="https://www.numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=FFFFFF"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF"/></a>
 
-<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=FFFFFF"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=FFFFFF"/></a>
 <a href="https://www.json.org" target="_blank"><img src="https://img.shields.io/badge/Json-000000?style=plastic&logo=json&logoColor=FFFFFF"/></a>
 
