@@ -7,8 +7,7 @@
 ### Career & Development
  - Degree of Software Engineering in Jeonbuk National University Junior (2019-) <a href="https://software.jbnu.ac.kr/software" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Applied AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
- - K-pop girl groups song, album data <a href="https://www.kaggle.com/datasets/indigocoder/2013-2022-kpop-famous-girl-groups-data" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=FFFFFF"/></a>
+ - Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization (KCI, JPT, Jun.2023. Vol.11, No.3, pp.12-23) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 
 ### Techs & Developing Environment
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/></a>
