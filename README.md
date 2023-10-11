@@ -27,7 +27,7 @@
 <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
 
 ### Interests
- - Data Analysis, Natural Language Processing (NLP), Topic Modeling, Text Mining
+ - Data Analysis, Multi-Disciplinary, Natural Language Processing (NLP), Topic Modeling, Text Mining
 
 ### Contact
 <a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
