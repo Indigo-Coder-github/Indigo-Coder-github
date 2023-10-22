@@ -8,7 +8,7 @@
  - Degree of Software Engineering in Jeonbuk National University Junior (2019-) <a href="https://software.jbnu.ac.kr/software" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Applied AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 #### KCI
- - Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization (JPT, Jun.2023. Vol.11, No.3, pp.12-23) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+ - Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization (JPT, Jun.2023. Vol.11, No.3, pp.12-23)(First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 #### SCI (Q2)
 #### SCI (Q1)
 
@@ -27,9 +27,10 @@
 <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
 
 ### Interests
- - Data Analysis, Multi-Disciplinary, Natural Language Processing (NLP), Topic Modeling, Text Mining
+ - Data Analysis, Multi-Disciplinary Research, Natural Language Processing (NLP), Topic Modeling, Text Mining
 
 ### Contact
+<a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google scholar&logoColor=FFFFFF"/></a>
 <a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/color_code_indigo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@indigo_coder" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
