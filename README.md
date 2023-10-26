@@ -4,15 +4,15 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs4011)](https://solved.ac/hjs4011)
 
-### Career & Development
+## Career & Development
  - Degree of Software Engineering in Jeonbuk National University Junior (2019-) <a href="https://software.jbnu.ac.kr/software" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Adaptive AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
-#### KCI
+### KCI
  - Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization (JPT, Jun.2023. Vol.11, No.3, pp.12-23)(First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-#### SCI (Q2)
-#### SCI (Q1)
+### SCI (Q2)
+### SCI (Q1)
 
-### Techs & Developing Environment
+## Techs & Developing Environment
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/></a>
 <a href="https://www.scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/sckitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF"/></a>
 <a href="https://www.numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=FFFFFF"/></a>
@@ -26,10 +26,10 @@
 <a href="https://www.jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF"/></a>
 <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
 
-### Interests
+## Interests
  - Data Analysis, Multi-Disciplinary Research, Natural Language Processing (NLP), Topic Modeling, Text Mining
 
-### Contact
+## Contact
 <a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google scholar&logoColor=FFFFFF"/></a>
 <a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/color_code_indigo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
