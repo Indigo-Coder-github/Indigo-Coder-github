@@ -9,8 +9,8 @@
  - Adaptive AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ## Paper Works
 ### Conferences
-#### The Opinion Analysis Using LDA Topic Modeling of Media Youtube Channel's Video and Comments
- - ICPTS 2023 하계학술대회, Jul.2023. pp.50-53 (First Author) <a href="https://www.ictps.or.kr/43/11883977" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+#### Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling
+ - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ### KCI
 #### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
 - JPT, Jun.2023. Vol.11, No.3, pp.12-23 (First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
