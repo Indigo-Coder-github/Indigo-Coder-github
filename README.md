@@ -7,10 +7,12 @@
 ## Career
  - Degree of Software Engineering in Jeonbuk National University Junior (2019-) <a href="https://software.jbnu.ac.kr/software" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Adaptive AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Leader of SFC(University Club for Chiristian) in Jeonbuk National University(2023-2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Management Team Member of JBIG(Jeonbuk National University Club for Data Science/Engineering)(2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=3&no=152" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ## Paper Works
 ### Conferences
 #### Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling
- - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ### KCI
 #### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
 - JPT, Jun.2023. Vol.11, No.3, pp.12-23 (First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
