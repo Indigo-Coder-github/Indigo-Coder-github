@@ -27,8 +27,12 @@
 <a href="https://www.scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/sckitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF"/></a>
 <a href="https://www.numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=FFFFFF"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=FFFFFF"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=FFFFFF"/></a>
+
 <a href="hhttps://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-437291?style=plastic&logo=OpenJDK&logoColor=FFFFFF"/></a>
 
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=FFFFFF"/></a>
 <a href="https://www.json.org" target="_blank"><img src="https://img.shields.io/badge/Json-000000?style=plastic&logo=json&logoColor=FFFFFF"/></a>
 
