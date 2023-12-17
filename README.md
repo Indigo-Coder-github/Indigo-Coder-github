@@ -47,4 +47,4 @@
 ## Contact
 <a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google scholar&logoColor=FFFFFF"/></a>
 <a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="https://velog.io/@indigo_coder" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://indigo-coder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFFFFF"/></a>
