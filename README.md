@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs4011)](https://solved.ac/hjs4011)
 
 ## Career
- - Undergraduated Degree of Software Engineering in Jeonbuk National University (2019-) <a href="https://software.jbnu.ac.kr/software" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Undergraduated Degree of Software Engineering in Jeonbuk National University (2019-) <a href="https://software.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Applied AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Leader of SFC (University Club for Chiristian) in Jeonbuk National University (2023-2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Management Team Member of JBIG (Jeonbuk National University Club for Data Science/Engineering)(2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=3&no=152" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
