@@ -18,7 +18,6 @@
 - JPT, Jun.2023. Vol.11, No.3, pp.12-23 (First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 ### SCI (Q2)
 ### SCI (Q1)
- - Asian Nursing Journal
 
 ## Open Source Projects
  - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
