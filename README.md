@@ -35,11 +35,13 @@
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=FFFFFF"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=FFFFFF"/></a>
 <a href="https://www.json.org" target="_blank"><img src="https://img.shields.io/badge/Json-000000?style=plastic&logo=json&logoColor=FFFFFF"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF"/></a>
 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visualstudiocode&logoColor=FFFFFF"/></a>
 <a href="https://colab.research.google.com" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=FFFFFF"/></a>
 <a href="https://www.jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=FFFFFF"/></a>
 <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
+<a href="https://www.github.com" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=FFFFFF"/></a>
 
 ## Interests
  - Data Analysis, Multi-Disciplinary Research, Natural Language Processing (NLP), Topic Modeling, Text Mining
