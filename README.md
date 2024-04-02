@@ -4,23 +4,15 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs4011)](https://solved.ac/hjs4011)
 
-## Career
- - Undergraduated Degree of Software Engineering in Jeonbuk National University (2019-) <a href="https://software.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Applied AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Leader of SFC (University Club for Chiristian) in Jeonbuk National University (2023) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Management Team Member of JBIG (Jeonbuk National University Club for Data Science/Engineering)(2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=3&no=152" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
-## Paper Works
-### Conferences
-#### Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling
- - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
-### KCI
-#### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
-- JPT, Jun.2023. Vol.11, No.3, pp.12-23 (First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-### SCI (Q2)
-### SCI (Q1)
+## Interests
+ - Main Research Area: Natural Language Processing (NLP), Topic Modeling, Text Mining, Data Analysis, Multi-Disciplinary Research
+ - Job Objectives: Data Analyst, Data Enginner, Data Scientist, ML/DL Enginner, Backend Developer
 
-## Open Source Projects
- - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
+## Contact
+<a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google scholar&logoColor=FFFFFF"/></a>
+<a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://indigo-coder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFFFFF"/></a>
+
 ## Techs
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/></a>
 <a href="https://www.scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/sckitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=FFFFFF"/></a>
@@ -43,10 +35,21 @@
 <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=FFFFFF"/></a>
 <a href="https://www.github.com" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=FFFFFF"/></a>
 
-## Interests
- - Data Analysis, Multi-Disciplinary Research, Natural Language Processing (NLP), Topic Modeling, Text Mining
+## Career
+ - Undergraduated Degree of Software Engineering in Jeonbuk National University (2019-) <a href="https://software.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Applied AI Laboratory in Jeonbuk National University (2022-) <a href="https://aidata.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Leader of SFC (University Club for Chiristian) in Jeonbuk National University (2023) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Management Team Member of JBIG (Jeonbuk National University Club for Data Science/Engineering)(2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=3&no=152" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 
-## Contact
-<a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google scholar&logoColor=FFFFFF"/></a>
-<a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="https://indigo-coder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFFFFF"/></a>
+## Paper Works
+### Conferences
+#### Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling
+ - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+### KCI
+#### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
+- JPT, Jun.2023. Vol.11, No.3, pp.12-23 (First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+### SCI (Q2)
+### SCI (Q1)
+
+## Open Source Projects
+ - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
