@@ -51,5 +51,9 @@
 ### SCI (Q2)
 ### SCI (Q1)
 
+## External Activities
+### [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
+- Kullback-Leibler Divergence 기반 사용자 음역대 맞춤 노래 및 적정 Key 추천
+
 ## Open Source Projects
  - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
