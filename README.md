@@ -20,8 +20,8 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=FFFFFF"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=FFFFFF"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=FFFFFF"/></a>
+<a href="https://www.huggingface.co" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=HuggingFace&logoColor=FFFFFF"/></a>
 
-<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-246DC3?style=plastic&logo=R&logoColor=FFFFFF"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-437291?style=plastic&logo=OpenJDK&logoColor=FFFFFF"/></a>
 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=FFFFFF"/></a>
@@ -46,6 +46,8 @@
  - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (Conference Paper, First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
 - JPT, Jun.2023. Vol.11, No.3, pp.12-23 (KCI Article, First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+### The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband
+- JPT, Aceepted (KCI Article, First Author) <a href="" target="_blank">
 
 ## External Activities
 ### [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
