@@ -46,6 +46,8 @@
  - ICT플랫폼학회 하계학술발표대회논문집, Jul.2023. Vol.10, No.1, pp.50-53 (Conference Paper, First Author) <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 ### Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization
 - JPT, Jun.2023. Vol.11, No.3, pp.12-23 (KCI Article, First Author) <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+### Analysis of issues related to nursing law: Examination of news articles using topic modeling
+- PLoS ONE, Aug.2024. (Q1 SCI Article, Co-Author) <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 ### The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband
 - JPT, Aceepted (KCI Article, First Author) <a href="" target="_blank">
 
