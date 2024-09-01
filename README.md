@@ -49,7 +49,7 @@
 ### Analysis of issues related to nursing law: Examination of news articles using topic modeling
 - PLoS ONE, Aug.2024. (Q1 SCI Article, Co-Author) <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 ### The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband
-- JPT, Aceepted (KCI Article, First Author) <a href="" target="_blank">
+- JPT, Aug.2024. Vol.12, No.4, pp.55-66 (KCI Article, First Author) <a href="" target="_blank">
 
 ## External Activities
 ### [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
