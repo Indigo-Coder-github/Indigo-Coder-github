@@ -53,7 +53,8 @@
 ## External Activities
 - [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
 - 전북대학교 SW중심대학사업단 2024년 인공지능 온라인 경진대회 장려상
-- '음역대 기반의 노래 추천 방법 및 장치' 특허권 및 'Kullback-Leibler Divergence(쿨백-라이블러 발산) 기반 사용자 음역대 맞춤 노래 및 적정 Key(키) 추천' 저작권
+- 'Kullback-Leibler Divergence(쿨백-라이블러 발산) 기반 사용자 음역대 맞춤 노래 및 적정 Key(키) 추천' 저작권
+- '음역대 기반의 노래 추천 방법 및 장치 (출원번호: 10-2024-0154542)' 특허권
 
 ## Open Source Projects
  - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
