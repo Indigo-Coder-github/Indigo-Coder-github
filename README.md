@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjs4011)](https://solved.ac/hjs4011)
 
 ## Interests
- - Main Research Area: Natural Language Processing (NLP), Text Mining, Data Analysis, Multi-Disciplinary Research
+ - Main Research Area: Natural Language Processing (NLP), AI Agent, Multimodal Model, Vision Language Model, Multi-Disciplinary Research
  - Job Objectives: Data Analyst, Data Enginner, Data Scientist, ML/DL Enginner, Backend Developer
 
 ## Contact
