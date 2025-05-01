@@ -58,3 +58,4 @@
 
 ## Open Source Projects
  - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
+ - MCP-Korea-Weather-Forecast(MCP Server by Python) <a href="https://github.com/Indigo-Coder-github/mcp-korea-weather-forecast" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
