@@ -48,7 +48,7 @@
 - **Recommendation of Suitable Songs and Key for User Vocal Range based on Kullback-Leibler Divergence**, _Proceedings of KIIT Conference_, May. 2024., pp.456-459 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11825546" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 - **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, PLoS ONE, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband**, Journal of Platform Technology, Aug. 2024., Vol.12, No.4, pp.55-66 <a href="http://doi.org/10.23023/JPT.2024.12.3.062" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, Scientific Reports, Jun 2025.,<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, Scientific Reports, Jun 2025.<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 
 ## External Activities
 - [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
