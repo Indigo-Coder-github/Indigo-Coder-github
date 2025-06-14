@@ -11,7 +11,6 @@
 ## Contact
 <a href="https://scholar.google.com/citations?user=kWbOhjoAAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Scholar-EA4335?style=plastic&logo=google-scholar&logoColor=FFFFFF"/></a>
 <a href="hjs40111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="https://indigo-coder.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=FFFFFF"/></a>
 
 ## Techs
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFFFFF"/></a>
@@ -41,6 +40,7 @@
  - Applied AI Laboratory in Jeonbuk National University (Dec.2022 - Feb.2027) <a href="https://appliedai.creatorlink.net/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Leader of SFC (University Club for Chiristian) in Jeonbuk National University (2023) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Management Team Member of JBIG (Jeonbuk National University Club for Data Science/Engineering)(2024) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=3&no=152" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - Python Grammar Tutoring in JBIG(2023 - 2025)
 
 ## Paper Works
 - **Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization**, Journal of Platform Technology, Jun. 2023., Vol.11, No.3, pp.12-23 <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
