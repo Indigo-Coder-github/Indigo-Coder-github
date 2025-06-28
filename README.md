@@ -43,19 +43,21 @@
  - Python Grammar Tutoring in JBIG (2023 - 2025)
 
 ## Paper Works
-- **Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization**, Journal of Platform Technology, Jun. 2023., Vol.11, No.3, pp.12-23 <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization**, _Journal of Platform Technology_, Jun. 2023., Vol.11, No.3, pp.12-23 <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2023., Vol.10, No.1, pp.50-53 <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 - **Recommendation of Suitable Songs and Key for User Vocal Range based on Kullback-Leibler Divergence**, _Proceedings of KIIT Conference_, May. 2024., pp.456-459 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11825546" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
-- **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, PLoS ONE, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband**, Journal of Platform Technology, Aug. 2024., Vol.12, No.4, pp.55-66 <a href="http://doi.org/10.23023/JPT.2024.12.3.062" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, Scientific Reports, Jun 2025.<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **A Comparative Study for Movie Sales Predicting Performance of Ensemble Models based on Features of Movies Released in South Korean Theater Before and After Covid-19**, Journal of Platform Technology, Under Review <a href="" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, _PLoS ONE_, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband**, _Journal of Platform Technology_, Aug. 2024., Vol.12, No.4, pp.55-66 <a href="http://doi.org/10.23023/JPT.2024.12.3.062" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, _Scientific Reports_, Jun 2025.<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **A Comparative Study for Movie Sales Predicting Performance of Ensemble Models based on Features of Movies Released in South Korean Theater Before and After Covid-19**, _Journal of Platform Technology_, Under Review <a href="" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **The Impact on Fine-Tuning Medical Lanugage Model via Hyperparameters of Quantized Low-Rank Adaptation**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2025., Vol.11, No.1, pp.24-26 <a href="" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 
 ## External Activities
 - [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
 - 전북대학교 SW중심대학사업단 2024년 인공지능 온라인 경진대회 장려상
 - 'Kullback-Leibler Divergence(쿨백-라이블러 발산) 기반 사용자 음역대 맞춤 노래 및 적정 Key(키) 추천' 저작권
-- '음역대 기반의 노래 추천 방법 및 장치 (출원번호: 10-2024-0154542)' 특허권
+- '음역대 기반의 노래 추천 방법 및 장치 (출원번호: 10-2024-0154542)' 특허 출원
+- 2025 ICT플랫폼 학회 하계학술대회 우수논문상
 
 ## Open Source Projects
  - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
