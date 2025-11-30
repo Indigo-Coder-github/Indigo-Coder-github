@@ -45,16 +45,24 @@
 ## Paper Works
 
 ### Articles
+
+#### KCI
 - **Clustering Meta Information of K-Pop Girl Groups Using Term Frequency-inverse Document Frequency Vectorization**, _Journal of Platform Technology_, Jun. 2023., Vol.11, No.3, pp.12-23 <a href="http://doi.org/10.23023/JPT.2023.11.3.012" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, _PLoS ONE_, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **The More Effective Rumor Detection adopted Bayesian Optimization-Hyperband**, _Journal of Platform Technology_, Aug. 2024., Vol.12, No.4, pp.55-66 <a href="http://doi.org/10.23023/JPT.2024.12.3.062" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, _Scientific Reports_, Jun 2025.<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **A Comparative Study for Movie Sales Predicting Performance of Ensemble Models based on Features of Movies Released in South Korean Theater Before and After Covid-19**, _Journal of Platform Technology_, Oct. 2025., Vol.13, No.5, pp.45-60 <a href="http://doi.org/10.23023/JPT.2025.13.5.045" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 
+#### SCIE
+- **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, _PLoS ONE_, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, _Scientific Reports_, Jun 2025.<a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+
 ### Conferences
+
+#### Domestic
 - **Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2023., Vol.10, No.1, pp.50-53 <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 - **Recommendation of Suitable Songs and Key for User Vocal Range based on Kullback-Leibler Divergence**, _Proceedings of KIIT Conference_, May. 2024., pp.456-459 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11825546" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 - **The Impact on Fine-Tuning Medical Lanugage Model via Hyperparameters of Quantized Low-Rank Adaptation**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2025., Vol.11, No.1, pp.24-26 <a href="" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+
+#### International
 
 ## External Activities
 - [한국정보기술학회 2024 하계종합학술대회 및 대학생논문경진대회 동상](https://ki-it.or.kr/board/maininfo/article/142940)
