@@ -60,7 +60,7 @@
 #### Domestic
 - **Analyzing Public Opinion on News Agency's YouTube Videos and Comments through LDA Topic Modeling**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2023., Vol.10, No.1, pp.50-53 <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11550547" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 - **Recommendation of Suitable Songs and Key for User Vocal Range based on Kullback-Leibler Divergence**, _Proceedings of KIIT Conference_, May. 2024., pp.456-459 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11825546" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
-- **The Impact on Fine-Tuning Medical Lanugage Model via Hyperparameters of Quantized Low-Rank Adaptation**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2025., Vol.11, No.1, pp.24-26 <a href="" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+- **The Impact on Fine-Tuning Medical Lanugage Model via Hyperparameters of Quantized Low-Rank Adaptation**, _ICT플랫폼학회 하계학술발표대회논문집_, Jul. 2025., Vol.11, No.1, pp.24-26 <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12457103" target="_blank"><img src="https://img.shields.io/badge/DBpia-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
 
 #### International
 
