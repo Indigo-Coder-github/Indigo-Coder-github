@@ -55,7 +55,7 @@
 - **Analysis of issues related to nursing law: Examination of news articles using topic modeling**, _PLoS ONE_, Aug.2024. <a href=https://doi.org/10.1371/journal.pone.0308065 target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **Adaptive Ensemble Techniques Leveraging BERT-Based Models for Multilingual Hate-Speech Detection in Korean and English**, _Scientific Reports_, Jun 2025. <a href="https://doi.org/10.1038/s41598-025-88960-y" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 - **Effective Data Balancing and Fine-Tuning Techniques for Medical sLLMs in Resource-Constrained Domains**, _Computers, Materials & Continua_, Jan 2026. <a href="https://doi.org/10.32604/cmc.2026.077579" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
-- **Unmasking Indoor Exposure Profiles in Vulnerable Households: An Unsupervised Clustering of Integrated Environmental and Demographic Data**, _Environment International_, accepted. <a href="" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
+- **Unmasking Indoor Exposure Profiles in Vulnerable Households: An Unsupervised Clustering of Integrated Environmental and Demographic Data**, _Environment International_, accepted. <a href="https://doi.org/10.1016/j.envint.2026.110167" target="_blank"><img src="https://img.shields.io/badge/doi-FAB70C?style=plastic&logo=doi&logoColor=FFFFFF"/></a>
 
 ### Conferences
 
