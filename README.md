@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=330099&height=200&text=Indigo_Coder&fontColor=FFFFFF&fontAlign=70&rotate=13&fontAlignY=25)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indigo-Coder-github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Indigo-Coder-github&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interests
  - **Main Research Area:** Natural Language Processing (NLP), AI Agent, Multimodal Model, Vision Language Model, Multi-Disciplinary Research
@@ -35,8 +35,7 @@
 ## Career
  - Bachelor's Degree of Software Engineering in Jeonbuk National University (Mar.2019 - Feb.2025) <a href="https://software.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Integrated PhD's Course of Software Enginnering in Jeonbuk National University (Mar.2025 - ) <a href="https://software.jbnu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Applied AI Laboratory in Jeonbuk National University (Dec.2022 - ) <a href="https://appliedai.creatorlink.net/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
- - Leader of SFC (University Club for Chiristian) in Jeonbuk National University (2023) <a href="http://www.jbnudongari.com/file/club_detail_view.php?cs_ancestor=2&cs_mkey=2&cateno=2&no=40" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
+ - ALSA Lab in Jeonbuk National University (Dec.2022 - ) <a href="https://appliedai.creatorlink.net/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Management Team Member of JBIG (Jeonbuk National University Club for AI) (2024) <a href="https://www.jbig.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=plastic&logo=googlehome&logoColor=FFFFFF"/></a>
  - Python Grammar Tutoring in JBIG (2023 - 2025)
 
@@ -71,7 +70,7 @@
 - '음역대 기반의 노래 추천 방법 및 장치 (출원번호: 10-2024-0154542)' 특허 출원
 - 2025 ICT플랫폼 학회 하계학술대회 우수논문상
 
-## Open Source Projects
- - Korean News Crawler(Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
- - MCP-Korea-Weather-Forecast(MCP Server by Python) <a href="https://github.com/Indigo-Coder-github/mcp-korea-weather-forecast" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
- - Big Tech News(Claude Code's Big Tech News Collecting Site) <a href="https://github.com/Indigo-Coder-github/Big-Tech-News" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
+## Open Source Projects with Claude Code
+ - Korean News Crawler (Python Library) <a href="https://github.com/Indigo-Coder-github/Korean_News_Crawler" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
+ - MCP-Korea-Weather-Forecast (MCP Server by Python) <a href="https://github.com/Indigo-Coder-github/mcp-korea-weather-forecast" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
+ - Big Tech News (Claude Code's Big Tech News Collecting Site) <a href="https://github.com/Indigo-Coder-github/Big-Tech-News" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=FFFFFF"/></a>
